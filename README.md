@@ -1,7 +1,7 @@
 # Library-Assignment
 
 A .NET 6.0 library desktop application created using C# and Windows Form. This application displays all the books and their information or by category
-through a text file. It implements Queue data structure to read the data file to follow the FIRST-COME-FIRST-SERVE rule and a Stack to process each book based
+through a text file. It implements Queue data structure to read the data file and a Stack to process each book based
 on their category.
 
 ## Main Dashboard
